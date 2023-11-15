@@ -1,7 +1,7 @@
 # Portfolio - Challenge
 
 ## Description
-- The main objectives of this challenge were to create a website so that a potential employer would be able to view my previous work.
+- The main objectives of this challenge were to create a webapp so that a potential employer would be able to view my previous work.
 - In addition to the above, we were tasked with presenting our name, a recent photo, and links to sections about my work and contact information.
 - I also used the :hover pseudo-class to apply a grayscale filter when the images for my projects are hovered over.
 - I learned how to manipulate flex-direction and working with resizing images.
