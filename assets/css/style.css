@@ -80,6 +80,7 @@ body {
     max-width: 800px;
     max-height: 200px;
     padding: 20px;
+    justify-content: center;
 }
 
 .container a img{
@@ -87,6 +88,7 @@ body {
     object-fit: fill;
     width: 800px;
     height: 200px;
+    justify-content: center;
 }
 
 .container img:hover{
